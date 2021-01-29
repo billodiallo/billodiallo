@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**billodiallo/billodiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  Hi there, 👋 You can call me Billo !
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development ( HTML &  CSS ,Ruby on Rails, JavaScript and React) and Cloud Computing, AWS.
@@ -13,4 +10,4 @@
 - 😄 Pronouns: I am a He/His
 -⚡ Fact about me: I wrote my first line of code in 2020 and I am student at Microverse  !
 
--->
+
