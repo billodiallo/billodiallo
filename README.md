@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi there, 👋 You can call me Billo !
+  You can call me Billo !
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full Stack Web Development ( HTML &  CSS ,Ruby on Rails, JavaScript and React) and Cloud Computing, AWS.
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
